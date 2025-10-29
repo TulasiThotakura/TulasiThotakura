@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tulasi   
+# 👋 Hey, I'm Tulasi   
 
 ✨ *Every data has a story to tell* ✨
 
