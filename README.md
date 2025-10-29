@@ -1,12 +1,10 @@
-# 👋 Hey, I'm Tulasi   
+<h2 align="center"> ✨ Every data has a story to tell ✨</h2>
+<h1 align="center"> Hey, I'm Tulasi Thotakura</h1>
 
-✨ *Every data has a story to tell* ✨
+
 
  📊 **Data Analyst & Visualization Enthusiast** | 🤖 **ML Explorer**
 
----
-
-## 🌟 About Me  
 
 I’m a passionate **Data Analyst** who believes that every dataset holds insights waiting to be discovered.  
 I specialize in transforming raw data into **clear, actionable, and visual stories** that drive smart decisions.  
