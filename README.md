@@ -1,70 +1,55 @@
-# 👋 Hey, I'm Tulasi
+# 👋 Hi, I'm Tulasi   
 
-🎓 **MS in Data Science** | 💼 Data Analyst | 📊 Visualization & BI Enthusiast  
-📍 Based in the U.S. | Open to roles in NYC, Buffalo, Rochester, Syracuse & Detroit  
+✨ *Every data has a story to tell* ✨
 
----
-
-## 🌟 About Me
-
-I'm a **Data Analyst** passionate about transforming data into actionable stories through visualizations and analysis.  
-My work combines **Python, SQL, and Power BI** to explore data, uncover insights, and deliver dashboards that guide decisions.  
-
-💡 **What I love working on:**
-- Creating **interactive dashboards** in Power BI and Plotly  
-- Building **ETL pipelines** and automating reports in Python  
-- Using **data storytelling** to explain trends to non-technical audiences  
-
-Currently expanding my **portfolio of BI and data visualization projects** and refining predictive modeling skills.
+ 📊 **Data Analyst & Visualization Enthusiast** | 🤖 **ML Explorer**
 
 ---
 
-## 💼 Experience
+## 🌟 About Me  
 
-🏛️ **Data Analyst – Student Trainee @ FDA** (*May 2024 – July 2025*)  
-- Built 15+ Power BI dashboards improving visibility into regulatory KPIs.  
-- Automated recurring reports and data pipelines in Python (20% faster).  
+I’m a passionate **Data Analyst** who believes that every dataset holds insights waiting to be discovered.  
+I specialize in transforming raw data into **clear, actionable, and visual stories** that drive smart decisions.  
 
-🛍️ **Retail Associate – Bluemercury** (*2023*)  
-- Maintained accurate sales data and supported in-store analytics.  
+My focus lies in **data visualization**, **business intelligence**, and **machine learning** — blending analytical depth with visual creativity. I enjoy finding meaningful patterns, designing insightful dashboards, and using data to explain *why* things happen, not just *what* happened.
 
-🌐 **Data Analyst Intern – Ladder Media Pvt. Ltd.** (*Apr 2021 – Aug 2021*)  
-- Produced 10+ analytical reports enhancing marketing insights.
-
----
-
-## ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+💡 I thrive on:  
+- Turning messy datasets into understandable insights  
+- Designing dashboards that reveal trends at a glance  
+- Building ML models that predict and explain outcomes  
+- Communicating complex findings in a visual and intuitive way  
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Languages and Tools  
 
-📧 [tulasithotakuraa@gmail.com](mailto:tulasithotakuraa@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="50"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/330px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" alt="Excel" width="50"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/140px-Power_BI_logo.svg.png" alt="Power BI" width="50"/> &nbsp;
+  <img src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI" alt="Tableau" width="50"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/280px-GitHub_Invertocat_Logo.svg.png" alt="Git" width="50"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/500px-Salesforce.com_logo.svg.png" alt="Salesforce" width="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60"/> &nbsp;
+  <img src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-blue/_jcr_content/par/image_360101046.img.png/1685459921715.png" alt="SAS" width="70"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/240px-Jupyter_logo.svg.png" alt="Jupyter" width="50"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/254px-Slack_icon_2019.svg.png?20200128081203" alt="Slack" width="50"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/960px-Figma-logo.svg.png?20250625151003" alt="Figma" width="35"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/230px-Tensorflow_logo.svg.png?20170429160244" alt="Tensor Flow" width="50"/> &nbsp;
+</p>
 
----
 
-✨ *“Great insights don’t just come from data — they come from how we visualize and communicate it.”*
+## 📫 Let’s Connect  
+
+  <a href="mailto:tulasithotakuraa@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tulasithotakura/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>
+  </a>
+</p>
 
 
-<!--
-**TulasiThotakura/TulasiThotakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Driven by curiosity. Powered by data. Inspired by stories.*
