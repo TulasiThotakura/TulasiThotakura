@@ -1,5 +1,6 @@
-<h2 align="center"> ✨ Every data has a story to tell ✨</h2>
 <h1 align="center"> Hey, I'm Tulasi Thotakura</h1>
+
+<h2 align="center"> ✨ Every data has a story to tell ✨</h2>
 
 
 
