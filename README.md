@@ -1,10 +1,6 @@
-<h1 align="center"> Hey, I'm Tulasi Thotakura</h1>
-
-<h2 align="center"> ✨ Every data has a story to tell ✨</h2>
-
-
-
- 📊 **Data Analyst & Visualization Enthusiast** | 🤖 **ML Explorer**
+<p align="center"><em>✨ Every data has a story to tell ✨</em></p>
+<h1 align="center">Hey, I'm Tulasi Thotakura</h1>
+<h2 align="center">Data Analyst & Visualization Enthusiast📈🔬</h2>
 
 
 I’m a passionate **Data Analyst** who believes that every dataset holds insights waiting to be discovered.  
@@ -13,10 +9,14 @@ I specialize in transforming raw data into **clear, actionable, and visual stori
 My focus lies in **data visualization**, **business intelligence**, and **machine learning** — blending analytical depth with visual creativity. I enjoy finding meaningful patterns, designing insightful dashboards, and using data to explain *why* things happen, not just *what* happened.
 
 💡 I thrive on:  
-- Turning messy datasets into understandable insights  
-- Designing dashboards that reveal trends at a glance  
-- Building ML models that predict and explain outcomes  
-- Communicating complex findings in a visual and intuitive way  
+
+-  🗂️ Turning messy datasets into understandable insights
+
+-  📊 Designing dashboards that reveal trends at a glance
+
+-  🤖 Building ML models that predict and explain outcomes
+
+- 📝 Communicating complex findings in a visual and intuitive way
 
 ---
 
