@@ -23,7 +23,7 @@ My focus lies in **data visualization**, **business intelligence**, and **machin
 ## 🚀 Languages and Tools  
 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="50"/> &nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-logo-icon-svg-download-png-3030165.png?f=webp&w=512" alt="SQL" width="50"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/330px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" alt="Excel" width="50"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/140px-Power_BI_logo.svg.png" alt="Power BI" width="50"/> &nbsp;
   <img src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI" alt="Tableau" width="50"/> &nbsp;
