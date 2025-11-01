@@ -27,7 +27,7 @@ My focus lies in **data visualization**, **business intelligence**, and **machin
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg/330px-Microsoft_Office_Excel_%282025%E2%80%93present%29.svg.png" alt="Excel" width="50"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/140px-Power_BI_logo.svg.png" alt="Power BI" width="50"/> &nbsp;
   <img src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI" alt="Tableau" width="50"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/280px-GitHub_Invertocat_Logo.svg.png" alt="Git" width="50"/> &nbsp;
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Git" width="50"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/500px-Salesforce.com_logo.svg.png" alt="Salesforce" width="60"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60"/> &nbsp;
   <img src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-blue/_jcr_content/par/image_360101046.img.png/1685459921715.png" alt="SAS" width="70"/> &nbsp;
